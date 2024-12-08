@@ -1,0 +1,7 @@
+{
+  "envs": {
+    "TOKEN": {
+      "description": "Your Telegram Bot Token"
+    }
+  }
+}
